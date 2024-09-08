@@ -1,0 +1,24 @@
+2024-08-31 23:54:51,014 - INFO - Logging is configured and working.
+2024-08-31 23:54:51,062 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2024-08-31 23:54:51,062 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-31 23:56:48,072 - INFO - Logging is configured and working.
+2024-08-31 23:56:48,181 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2024-08-31 23:56:48,181 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-31 23:58:13,830 - INFO - Logging is configured and working.
+2024-08-31 23:58:14,055 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2024-08-31 23:58:14,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-01 00:08:08,699 - INFO - Model and data loaded successfully.
+2024-09-01 00:08:08,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2024-09-01 00:08:08,699 - INFO - [33mPress CTRL+C to quit[0m
